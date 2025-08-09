@@ -3,8 +3,6 @@
 # Python is a versatile programming language that is widely used for various applications.  
 # It is known for its readability and simplicity, making it a great choice for beginners.
 # In this file, we will cover some fundamental concepts of Python.
-# Let's start with printing a simple message to the console.
-# comment # is use to write comments in Python
 print("Hello, World!") 
 #printing a message 
 # date type , variables, and basic operations
