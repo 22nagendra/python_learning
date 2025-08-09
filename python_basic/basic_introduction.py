@@ -30,8 +30,6 @@ y = 3.14  # a float
 name = "Alice"  # a string
 is_active = True  # a boolean   
 # You can print the values of these variables using the print function.
-
-
 #type of the variable can be checked using the type function`   
 # You can check the type of a variable using the type function.
 print(type(x),"output is ",x)  # prints <class 'int'>
